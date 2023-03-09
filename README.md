@@ -1,7 +1,7 @@
 Device configuration for Oneplus 10R
 =========================================
 
-The Oneplus 10R (codenamed _"ossi"_) is a high-end smartphone from Oneplus.
+The Oneplus 10R (codenamed _"pickle"_) is a high-end smartphone from Oneplus.
 
 Oneplus 10R was announced and release on April 2022.
 
